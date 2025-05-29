@@ -25,7 +25,7 @@
 git clone https://github.com/Vdem07/Memory-App-Server.git
 cd Memory-App-Server
 npm install
-npm start
+npm run dev
 ```
 
 ## ⚙️ Переменные окружения
